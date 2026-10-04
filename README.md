@@ -1,124 +1,147 @@
-<!-- Hacker-style profile README | palette: #0d1117 (bg) / #00ff41 (matrix green) / #c9d1d9 (text) -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=jamiul2168&fontSize=58&fontColor=00ff41&fontAlignY=38&desc=%3E_%20developer%20%7C%20designer%20%7C%20tinkerer&descSize=18&descColor=c9d1d9&descAlignY=58&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0f172a,100:00f0ff&height=200&section=header&text=Jamiul%20Hasan&fontSize=60&fontColor=00f0ff&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Blogger%20%7C%20Content%20Creator&descSize=18&descAlignY=60&descColor=94a3b8" alt="header" />
 
 <a href="https://github.com/jamiul2168">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=640&height=40&lines=%24+whoami+%E2%86%92+jamiul2168;%24+cat+skills.txt+%E2%86%92+code+%2B+design;%24+sudo+build+something+cool;%24+echo+%22Hello%2C+World%22" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+Jamiul+Hasan;%24+location+%E2%86%92+Bangladesh;%24+status+%E2%86%92+Learning.+Building.+Creating.+Sharing.;%24+open_to+%E2%86%92+collaboration+%26+learning" alt="typing" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jamiul2168&label=VISITORS&color=00ff41&style=flat-square&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/jamiul2168?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=jamiul2168&style=for-the-badge&color=00f0ff&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/jamiul2168?style=for-the-badge&logo=github&color=0f172a&labelColor=030712)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-05ffa1?style=for-the-badge&labelColor=030712)
 
 </div>
 
 ---
 
-## `~/about`
+## `> cat about.txt`
 
 ```bash
-jamiul2168@github:~$ cat about.json
-{
-  "name"    : "jamiul2168",
-  "role"    : ["Developer", "Designer", "Tinkerer"],
-  "stack"   : ["Python", "Java", "JavaScript", "PowerShell", "HTML5"],
-  "cloud"   : ["Cloudflare", "Firebase", "Google Cloud", "Vercel"],
-  "creative": ["Photoshop", "Illustrator", "After Effects", "Premiere Pro"],
-  "status"  : "building things & breaking them (on purpose)"
-}
-jamiul2168@github:~$ _
+$ cat /home/jamiul/about.txt
+
+NAME        : Jamiul Hasan
+ROLE        : Student · Web Developer · Blogger · Content Creator
+LOCATION    : Bangladesh 🇧🇩  (GMT+6)
+FOCUS       : Web Development · Frontend · Backend Basics · 3D Web (Three.js)
+MOTTO       : Learn • Build • Create • Share
+STATUS      : Open to collaboration, learning, and new projects
+```
+
+I build clean, responsive websites, write beginner-friendly tech articles, and make tutorials to share what I learn. I believe **consistency beats perfection**, and every line of code is another step forward.
+
+---
+
+## `> ./current_focus.sh`
+
+```diff
++ Building personal web projects and interactive 3D experiences
++ Learning modern JavaScript, backend fundamentals, and databases
++ Practicing responsive layouts and clean, readable code
++ Writing blog posts and recording video tutorials
+- Not afraid of bugs. Every error is a lesson.
 ```
 
 ---
 
-## `~/stack`
-
-**`> languages`**
-
-![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
-![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff41)
-![PowerShell](https://img.shields.io/badge/-PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00ff41)
-
-**`> cloud & deploy`**
-
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00ff41)
-![Firebase](https://img.shields.io/badge/-Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00ff41)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=00ff41)
-![Vercel](https://img.shields.io/badge/-Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41)
-
-**`> tools & hardware`**
-
-![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-0d1117?style=for-the-badge&logo=windowsterminal&logoColor=00ff41)
-![Arduino](https://img.shields.io/badge/-Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00ff41)
-
-**`> creative suite`**
-
-![Photoshop](https://img.shields.io/badge/-Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=00ff41)
-![Illustrator](https://img.shields.io/badge/-Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=00ff41)
-![After Effects](https://img.shields.io/badge/-After%20Effects-0d1117?style=for-the-badge&logo=adobeaftereffects&logoColor=00ff41)
-![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-0d1117?style=for-the-badge&logo=adobepremierepro&logoColor=00ff41)
-![Audition](https://img.shields.io/badge/-Audition-0d1117?style=for-the-badge&logo=adobeaudition&logoColor=00ff41)
-![InDesign](https://img.shields.io/badge/-InDesign-0d1117?style=for-the-badge&logo=adobeindesign&logoColor=00ff41)
-![Acrobat](https://img.shields.io/badge/-Acrobat-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00ff41)
-![Canva](https://img.shields.io/badge/-Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00ff41)
-
----
-
-## `~/stats`
+## `> ls ~/skills`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=jamiul2168&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&show_icons=true"/>
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jamiul2168&layout=compact&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-00f0ff?style=for-the-badge&logo=fastapi&logoColor=black)
+
+</div>
+
+| Category        | Stack / Topics                                                    |
+| --------------- | ----------------------------------------------------------------- |
+| **Frontend**    | HTML5, CSS3, JavaScript, Responsive Design, Animations            |
+| **Backend**     | Server-side basics, REST APIs, API Integration, Database Basics   |
+| **3D / Graphics** | Three.js, WebGL                                                 |
+| **Tools**       | Git, GitHub, Linux & Terminal, VS Code, DevTools Debugging        |
+| **Creative**    | Tech Blogging, Video Tutorials, Visual Design                     |
+
+---
+
+## `> git log --featured`
+
+| # | Project | Description | Tech |
+| - | ------- | ----------- | ---- |
+| 01 | **Personal Portfolio** | Cyber-themed 3D portfolio with Three.js scene, interactive HUD, custom cursor, and scroll animations | `HTML` `CSS` `JavaScript` `Three.js` |
+| 02 | **API-Driven Web App** | App built to practice async data fetching, state handling, and dynamic UI updates | `JavaScript` `REST APIs` |
+| 03 | **Creative Web Experiments** | Animations, interactive elements, and visual design experiments | `CSS` `JavaScript` |
+
+> More projects are being committed regularly. Check my [repositories](https://github.com/jamiul2168?tab=repositories).
+
+---
+
+## `> ./stats --live`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jamiul2168&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00f0ff&icon_color=05ffa1&text_color=94a3b8" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiul2168&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00f0ff&text_color=94a3b8" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamiul2168&theme=tokyonight&hide_border=true&background=030712&ring=00f0ff&fire=ff0055&currStreakLabel=05ffa1" alt="Streak" />
+
+</div>
+
+---
+
+## `> cat principles.md`
+
+```text
+[01] Understand first   → research before writing code
+[02] Build consistently → small things daily become real skill
+[03] Keep it simple     → clean, readable, maintainable
+[04] Stay curious       → try new tools, learn from mistakes
+[05] Share knowledge    → teaching deepens understanding
+```
+
+---
+
+## `> roadmap --short-term`
+
+- [x] Learn HTML, CSS, JavaScript fundamentals
+- [x] Build and ship a 3D interactive portfolio
+- [ ] Build more full-featured web apps and open-source them
+- [ ] Deepen modern JavaScript and backend skills
+- [ ] Publish 30+ beginner-friendly tech articles
+- [ ] Create engaging video tutorials for fellow students
+
+---
+
+## `> ping --connect`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-jamiulhasan@duck.com-00f0ff?style=for-the-badge&logo=maildotru&logoColor=black)](mailto:jamiulhasan@duck.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jamiul2168-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiul2168)
+[![Facebook](https://img.shields.io/badge/Facebook-jamiul2168-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jamiul2168)
+[![Blog](https://img.shields.io/badge/Blog-jamiul2168-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jamiul2168.blogspot.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@jamiul2168-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jamiul2168)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=jamiul2168&hide_border=false&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=C9D1D9&sideLabels=00FF41&sideNums=C9D1D9&dates=8B949E&border=00FF41"/>
-
-</div>
-
----
-
-## `~/connect`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:jamiulhasan@duck.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/jamiul2168)
-[![X](https://img.shields.io/badge/-X-0d1117?style=for-the-badge&logo=x&logoColor=00ff41)](https://x.com/jamiul2168)
-[![Bluesky](https://img.shields.io/badge/-Bluesky-0d1117?style=for-the-badge&logo=bluesky&logoColor=00ff41)](https://bsky.app/profile/jamiul2168)
-[![Mastodon](https://img.shields.io/badge/-Mastodon-0d1117?style=for-the-badge&logo=mastodon&logoColor=00ff41)](https://mastodon.social/@jamiul2168)
-[![Discord](https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ff41)](https://discord.gg/jamiul2168)
-
-[![Behance](https://img.shields.io/badge/-Behance-0d1117?style=for-the-badge&logo=behance&logoColor=00ff41)](https://behance.net/jamiul2168)
-[![Medium](https://img.shields.io/badge/-Medium-0d1117?style=for-the-badge&logo=medium&logoColor=00ff41)](https://medium.com/@jamiul2168)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-0d1117?style=for-the-badge&logo=stackoverflow&logoColor=00ff41)](https://stackoverflow.com/users/jamiul2168)
-[![Quora](https://img.shields.io/badge/-Quora-0d1117?style=for-the-badge&logo=quora&logoColor=00ff41)](https://quora.com/profile/jamiul2168)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-0d1117?style=for-the-badge&logo=pinterest&logoColor=00ff41)](https://pinterest.com/jamiul2168)
-
-[![YouTube](https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00ff41)](https://youtube.com/@jamiul2168)
-[![Twitch](https://img.shields.io/badge/-Twitch-0d1117?style=for-the-badge&logo=twitch&logoColor=00ff41)](https://twitch.tv/jamiul2168)
-[![TikTok](https://img.shields.io/badge/-TikTok-0d1117?style=for-the-badge&logo=tiktok&logoColor=00ff41)](https://tiktok.com/@jamiul2168)
-[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://instagram.com/jamiul2168)
-[![Facebook](https://img.shields.io/badge/-Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=00ff41)](https://facebook.com/jamiul2168)
-
-</div>
-
----
-
-<div align="center">
-
 ```text
-[ connection closed ]  ·  thanks for stopping by  ·  ⌨️ keep hacking
+┌──────────────────────────────────────────────┐
+│  "Learn something new.                       │
+│   Build something useful.                    │
+│   Create something meaningful.               │
+│   Share what you learn."                     │
+│                              — Jamiul Hasan  │
+└──────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
-
-<sub>Built with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0f172a,100:030712&height=120&section=footer" alt="footer" />
 
 </div>
