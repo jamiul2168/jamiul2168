@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jamiul2168&style=for-the-badge&color=00f0ff&label=PROFILE+VIEWS)
+![Repos](https://img.shields.io/github/repositories/jamiul2168?style=for-the-badge&logo=github&color=0f172a&labelColor=030712)
 ![Followers](https://img.shields.io/github/followers/jamiul2168?style=for-the-badge&logo=github&color=0f172a&labelColor=030712)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-05ffa1?style=for-the-badge&labelColor=030712)
 
@@ -104,7 +104,7 @@ $ skill --status
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jamiul2168&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00f0ff&icon_color=05ffa1&text_color=94a3b8" alt="GitHub Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiul2168&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00f0ff&text_color=94a3b8" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamiul2168&theme=tokyonight&hide_border=true&background=030712&ring=00f0ff&fire=ff0055&currStreakLabel=05ffa1" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=jamiul2168&theme=tokyonight&hide_border=true&background=030712&ring=00f0ff&fire=ff0055&currStreakLabel=05ffa1" alt="Streak" />
 
 </div>
 
