@@ -1,15 +1,124 @@
+<!-- Hacker-style profile README | palette: #0d1117 (bg) / #00ff41 (matrix green) / #c9d1d9 (text) -->
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/jamiul2168) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jamiul2168) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jamiul2168) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jamiul2168) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jamiul2168) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiul2168) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jamiul2168) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jamiul2168) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/jamiul2168) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jamiul2168) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jamiul2168) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jamiul2168) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jamiul2168) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jamiul2168) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@jamiul2168) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamiulhasan@duck.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jamiul2168&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jamiul2168&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jamiul2168&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=jamiul2168&fontSize=58&fontColor=00ff41&fontAlignY=38&desc=%3E_%20developer%20%7C%20designer%20%7C%20tinkerer&descSize=18&descColor=c9d1d9&descAlignY=58&animation=fadeIn" alt="header" width="100%"/>
+
+<a href="https://github.com/jamiul2168">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=640&height=40&lines=%24+whoami+%E2%86%92+jamiul2168;%24+cat+skills.txt+%E2%86%92+code+%2B+design;%24+sudo+build+something+cool;%24+echo+%22Hello%2C+World%22" alt="typing animation"/>
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jamiul2168&label=VISITORS&color=00ff41&style=flat-square&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/jamiul2168?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d1117)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=jamiul2168&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `~/about`
+
+```bash
+jamiul2168@github:~$ cat about.json
+{
+  "name"    : "jamiul2168",
+  "role"    : ["Developer", "Designer", "Tinkerer"],
+  "stack"   : ["Python", "Java", "JavaScript", "PowerShell", "HTML5"],
+  "cloud"   : ["Cloudflare", "Firebase", "Google Cloud", "Vercel"],
+  "creative": ["Photoshop", "Illustrator", "After Effects", "Premiere Pro"],
+  "status"  : "building things & breaking them (on purpose)"
+}
+jamiul2168@github:~$ _
+```
+
+---
+
+## `~/stack`
+
+**`> languages`**
+
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
+![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff41)
+![PowerShell](https://img.shields.io/badge/-PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00ff41)
+
+**`> cloud & deploy`**
+
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00ff41)
+![Firebase](https://img.shields.io/badge/-Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00ff41)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=00ff41)
+![Vercel](https://img.shields.io/badge/-Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41)
+
+**`> tools & hardware`**
+
+![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-0d1117?style=for-the-badge&logo=windowsterminal&logoColor=00ff41)
+![Arduino](https://img.shields.io/badge/-Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00ff41)
+
+**`> creative suite`**
+
+![Photoshop](https://img.shields.io/badge/-Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=00ff41)
+![Illustrator](https://img.shields.io/badge/-Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=00ff41)
+![After Effects](https://img.shields.io/badge/-After%20Effects-0d1117?style=for-the-badge&logo=adobeaftereffects&logoColor=00ff41)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-0d1117?style=for-the-badge&logo=adobepremierepro&logoColor=00ff41)
+![Audition](https://img.shields.io/badge/-Audition-0d1117?style=for-the-badge&logo=adobeaudition&logoColor=00ff41)
+![InDesign](https://img.shields.io/badge/-InDesign-0d1117?style=for-the-badge&logo=adobeindesign&logoColor=00ff41)
+![Acrobat](https://img.shields.io/badge/-Acrobat-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00ff41)
+![Canva](https://img.shields.io/badge/-Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00ff41)
+
+---
+
+## `~/stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=jamiul2168&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&show_icons=true"/>
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jamiul2168&layout=compact&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=jamiul2168&hide_border=false&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=C9D1D9&sideLabels=00FF41&sideNums=C9D1D9&dates=8B949E&border=00FF41"/>
+
+</div>
+
+---
+
+## `~/connect`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:jamiulhasan@duck.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/jamiul2168)
+[![X](https://img.shields.io/badge/-X-0d1117?style=for-the-badge&logo=x&logoColor=00ff41)](https://x.com/jamiul2168)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-0d1117?style=for-the-badge&logo=bluesky&logoColor=00ff41)](https://bsky.app/profile/jamiul2168)
+[![Mastodon](https://img.shields.io/badge/-Mastodon-0d1117?style=for-the-badge&logo=mastodon&logoColor=00ff41)](https://mastodon.social/@jamiul2168)
+[![Discord](https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ff41)](https://discord.gg/jamiul2168)
+
+[![Behance](https://img.shields.io/badge/-Behance-0d1117?style=for-the-badge&logo=behance&logoColor=00ff41)](https://behance.net/jamiul2168)
+[![Medium](https://img.shields.io/badge/-Medium-0d1117?style=for-the-badge&logo=medium&logoColor=00ff41)](https://medium.com/@jamiul2168)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-0d1117?style=for-the-badge&logo=stackoverflow&logoColor=00ff41)](https://stackoverflow.com/users/jamiul2168)
+[![Quora](https://img.shields.io/badge/-Quora-0d1117?style=for-the-badge&logo=quora&logoColor=00ff41)](https://quora.com/profile/jamiul2168)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-0d1117?style=for-the-badge&logo=pinterest&logoColor=00ff41)](https://pinterest.com/jamiul2168)
+
+[![YouTube](https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00ff41)](https://youtube.com/@jamiul2168)
+[![Twitch](https://img.shields.io/badge/-Twitch-0d1117?style=for-the-badge&logo=twitch&logoColor=00ff41)](https://twitch.tv/jamiul2168)
+[![TikTok](https://img.shields.io/badge/-TikTok-0d1117?style=for-the-badge&logo=tiktok&logoColor=00ff41)](https://tiktok.com/@jamiul2168)
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://instagram.com/jamiul2168)
+[![Facebook](https://img.shields.io/badge/-Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=00ff41)](https://facebook.com/jamiul2168)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+[ connection closed ]  ·  thanks for stopping by  ·  ⌨️ keep hacking
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+
+<sub>Built with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+
+</div>
