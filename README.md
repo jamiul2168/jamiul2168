@@ -47,28 +47,41 @@ I build clean, responsive websites, write beginner-friendly tech articles, and m
 
 ## `> ls ~/skills`
 
+```bash
+$ skill --status
+
+[ WORKING WITH ]   HTML5 · CSS3 · JavaScript (basics) · Git & GitHub · VS Code
+[ LEARNING NOW ]   Three.js · REST APIs · Backend basics · SQL · Linux & Terminal
+[ NEXT UP      ]   Modern JS frameworks · Full-stack projects · Databases in depth
+```
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![Learning](https://img.shields.io/badge/LEARNING-00f0ff?style=for-the-badge&labelColor=030712)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-00f0ff?style=for-the-badge&logo=fastapi&logoColor=black)
 
 </div>
 
-| Category        | Stack / Topics                                                    |
-| --------------- | ----------------------------------------------------------------- |
-| **Frontend**    | HTML5, CSS3, JavaScript, Responsive Design, Animations            |
-| **Backend**     | Server-side basics, REST APIs, API Integration, Database Basics   |
-| **3D / Graphics** | Three.js, WebGL                                                 |
-| **Tools**       | Git, GitHub, Linux & Terminal, VS Code, DevTools Debugging        |
-| **Creative**    | Tech Blogging, Video Tutorials, Visual Design                     |
+| Area | Status |
+| ---- | ------ |
+| **Frontend** (HTML, CSS, JS) | 🟢 Building projects |
+| **Git & GitHub** | 🟢 Using daily |
+| **3D Web (Three.js)** | 🟡 Learning by building |
+| **REST APIs & Backend** | 🟡 Learning |
+| **SQL & Databases** | 🟡 Learning |
+| **Linux & Terminal** | 🟡 Learning |
+
+> 🟢 Comfortable · 🟡 Actively learning. I update this as I grow.
 
 ---
 
