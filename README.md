@@ -8,7 +8,7 @@
 
 <br/>
 
-![Repos](https://img.shields.io/github/repositories/jamiul2168?style=for-the-badge&logo=github&color=0f172a&labelColor=030712)
+![Location](https://img.shields.io/badge/BASED_IN-BANGLADESH-0f172a?style=for-the-badge&labelColor=030712&color=00f0ff)
 ![Followers](https://img.shields.io/github/followers/jamiul2168?style=for-the-badge&logo=github&color=0f172a&labelColor=030712)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-05ffa1?style=for-the-badge&labelColor=030712)
 
